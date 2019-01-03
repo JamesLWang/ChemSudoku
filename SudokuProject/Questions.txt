@@ -1,0 +1,32 @@
+31
+Which element has the largest atomic radius: carbon, aluminum, oxygen, potassium
+Which element is the most electronegative: sulfur, oxygen, neon, aluminum
+Which element has a higher ionization energy: fluorine, iodine
+Which species has the higher first ionization energy: Li  or  Cs
+Which species has the higher first ionization energy: Cl-  or  Ar
+Which species has the higher first ionization energy: Ca  or  Br
+Which species has the higher first ionization energy: Na+ or  Ne
+Which species has the higher first ionization energy: B  or  Be
+Which species has the larger atomic radius: Mg  or  Ba
+Which species has the larger atomic radius: S  or  S2-
+Which species has the larger atomic radius: Cu+2 or  Cu
+Which species has the larger atomic radius: He  or  H-
+Which species has the larger atomic radius: Na  or  Cl
+Which species has the highest first ionization energy:    C,   N,   Si
+Which species has the largest radius:   S2–,   Cl–,   Cl
+Which species has the highest electronegativity:   As,   Sn,   S
+Which species has the smallest atom:   Na,   Li,    Be
+Which species has the largest atom:   Fe,    Co,    Ni
+Which species has the lowest first ionization energy:   K,   Na,   Ca
+Which species has the highest second ionization energy:   Na,   Mg,   Al
+Which species has the lowest second ionization energy:   Ar,   K,   Ca
+Provide the name for this compound: SI
+Provide the name for this compound: HF
+Provide the name for this compound: P4O10 
+Provide the name for this compound: Fe2O3
+Provide the name for this compound: CrF3
+Provide the chemical formula for this compound: Hydroiodic acid
+Provide the chemical formula for this compound: Mercury (I) cyanide 
+Provide the chemical formula for this compound: Hydrocarbonic acid
+Provide the chemical formula for this compound: Chromic sulfate
+Provide the chemical formula for this compound: Tin (IV) peroxide
